@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: 我的第一个博客
 date: 2016-11-23
 categories: blog
