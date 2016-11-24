@@ -4,15 +4,15 @@
 
 # Site
 title: 我爱小程序
-subtitle:小应用，大作为
-description:学习总结 知识管理
-author: 破晓黎明
+subtitle:
+description:
+author: Daniel Young
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: 
+url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -68,10 +68,4 @@ theme: alpha-dust
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:github
-  repo:https://github.com/iminiapp/iminiapp.github.io.git
-  branch:gh-pages
-  
-# Header
-menu:
-  Home: /
+  type:

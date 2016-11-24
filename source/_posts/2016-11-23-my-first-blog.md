@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: 
 title: 我的第一个博客
 date: 2016-11-23
 categories: blog
-tags: [first]
-description: 初次尝试。
+tags: [wx]
+description: 
 ---
 
 
@@ -25,7 +25,7 @@ description: 初次尝试。
 - 微信：danielyoung2013
 
 
-## Changelog
+### Changelog
 
 - 2016-11-23 创建
 
