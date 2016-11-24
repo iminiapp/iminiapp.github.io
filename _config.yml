@@ -1,27 +1,27 @@
 # Site settings
-title: 读立写生
+title: 我爱小程序
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "小程序·大作为"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "http://www.iminiapp.com"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: "Daniel Young"
+  email: ylming2011@126.com
+  bio: "小而精"
 
 # Data
-gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
-favicon: img/favicon.png
+gavatar: 
+favicon: 
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:  
+twitter_username: 
+github_username: iminiapp
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username:  "千叶树Daniel"
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -49,9 +49,9 @@ defaults:
 comments :
   provider : disqus
   duoshuo :
-    short_name : cnfeat
+    short_name : daniel
   disqus :
-      short_name : cnfeat
+      short_name : daniel
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
