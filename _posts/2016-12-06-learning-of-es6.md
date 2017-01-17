@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在VS中使用正则替换
+title: 学习ES6
 date: 2016-12-06
 categories: blog
 tags: [js,ES6]
